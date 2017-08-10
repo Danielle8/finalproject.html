@@ -81,12 +81,6 @@ cursor: pointer;
 </p>
 
 <p>
-<label>Phone 
-<input type="tel" name="phone_number">
-</label>
-</p>
-
-<p>
 <label>Email 
 <input type="email" name="email_address">
 </label>

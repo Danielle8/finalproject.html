@@ -10,11 +10,11 @@ font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 font-size: 2em;
 width: 40em;
 padding: 4em;
-border: 1px solid #ccc;
+border: none
 }
 
 .myForm * {
-box-sizing: border-box;
+
 }
 
 .myForm fieldset {
